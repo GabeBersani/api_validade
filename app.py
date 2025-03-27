@@ -28,7 +28,7 @@ def validado(data, quantidade):
         ## Resposta (JSON):
          '''json
          {
-            "Fabrica\u00e7\u00e3o": "27/03/2025",
+            "Fabrica\": "27/03/2025",
             "Validade": "06/04/2025"
          }
 
