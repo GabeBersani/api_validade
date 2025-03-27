@@ -7,7 +7,7 @@ from dateutil.relativedelta import relativedelta
 app = Flask(__name__)
 
 spec = FlaskPydanticSpec ( 'flask',
-                           tittle = 'First API - SENAI',
+                           tittle = 'API Validade',
                            version = '1.0.0',)
 spec.register(app)
 
